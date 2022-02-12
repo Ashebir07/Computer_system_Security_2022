@@ -2,11 +2,6 @@
 ## DES - Data Encryption Standard                                   
 ## Symmetric encryption method based on the fiestal cipher          
 ## 1. Ashebir wondemeneh 
-## 2. Ashenafi zenebe 
-## 3. Getabalew Temesegen 
-## 4. Yemeserach Mengestu
-## 5. Wendirad Demelashe   
- 
 ##  December 2021  
                                
 ###############################################################
